@@ -1,4 +1,4 @@
-# 📝 Smart Notes Pro
+# Smart Notes Pro
 
 A modern, offline-first, and feature-rich note-taking application built with **Vanilla JavaScript** and **Firebase**.  
 
@@ -78,3 +78,4 @@ Smart Notes Pro integrates the following Firebase APIs:
 1. Clone the repository:
    ```sh
    git clone https://github.com/haniyawajid45/smart-notes-pro.git
+
